@@ -90,7 +90,7 @@ public class GameController implements Initializable {
 
     private void showFinalScore() {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
-        alert.setTitle("Game Over");
+        alert.setTitle("Ban da thua ");
         alert.setHeaderText(null);
         alert.setContentText("Your final score: " + score + " points");
         alert.showAndWait();
