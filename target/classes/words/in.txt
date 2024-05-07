@@ -1,0 +1,6 @@
+intersection,ngã từ
+time,thời gian
+women,phụ nữ
+book,sách
+dog,chó
+cat,mèo
